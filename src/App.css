@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #4e4eff;
+  color: #fff;
+  width: 500px;
+  height: 500px;
+}
+
+.answer {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: block;
+}
